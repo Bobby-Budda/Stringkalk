@@ -1,0 +1,23 @@
+{
+  "name": "Stringkalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobby-Budda/Stringkalk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobby-Budda/Stringkalk/issues"
+  },
+  "homepage": "https://github.com/Bobby-Budda/Stringkalk#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
